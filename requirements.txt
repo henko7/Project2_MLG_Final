@@ -215,7 +215,7 @@ notebook @ file:///C:/b/abs_e2qn6c85jb/croot/notebook_1690985290943/work
 notebook_shim @ file:///C:/b/abs_a5xysln3lb/croot/notebook-shim_1699455926920/work
 numba @ file:///C:/b/abs_3e3co1qfvo/croot/numba_1707085143481/work
 numexpr @ file:///C:/b/abs_5fucrty5dc/croot/numexpr_1696515448831/work
-numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.21.3-cp311-cp311-win_amd64.whl#sha256=5dfd3e04dc1c2826d3f404fdc7f93c097901f5da9b91f4f394f79d4e038ed81d
+numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.19.5-cp311-cp311-win_amd64.whl#sha256=5dfd3e04dc1c2826d3f404fdc7f93c097901f5da9b91f4f394f79d4e038ed81d
 numpydoc @ file:///C:/ci_311/numpydoc_1676453412027/work
 one-hot-encoder==1.1
 openpyxl==3.0.10
